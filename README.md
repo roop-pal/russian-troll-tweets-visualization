@@ -4,6 +4,8 @@ This data was used in the FiveThirtyEight story [Why We’re Sharing 3 Million R
 
 We utilized a neural network to analyze the sentiments of these tweets and to see how the clemson-derived categories concorded with the sentiments from the dataset.
 
+https://beta.observablehq.com/@mogryzko/for-chris/2
+
 This was done for the COMS 4995 class "Data Visualization" at Columbia university, with Max Ogryzko, Shubham Singhal, Roop Pal, and Chris Doan.
 
 "This directory contains data on nearly 3 million tweets sent from Twitter handles connected to the Internet Research Agency, a Russian "troll factory" and a defendant in [an indictment](https://www.justice.gov/file/1035477/download) filed by the Justice Department in February 2018, as part of special counsel Robert Mueller's Russia investigation. The tweets in this database were sent between February 2012 and May 2018, with the vast majority posted from 2015 through 2017.
